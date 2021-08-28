@@ -1,11 +1,5 @@
 ### Background
-
-Conduct a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-
-Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, perform the following:
-1. Data Modeling
-2. Data Engineering
-3. Data Analysis
+Conducted research on employees in a multinational corporation, from the 1980s and 1990s. Designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data.
 
 ### Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
