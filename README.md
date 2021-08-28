@@ -1,7 +1,4 @@
-# A Mystery in Two Parts
-
-
-## Background
+### Background
 
 Conduct a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
@@ -10,13 +7,8 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 2. Data Engineering
 3. Data Analysis
 
-
-## Objectives
-
 ### Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
-
-![](Images/Entity%20Relationship%20Diagram%20(ERD).png)
 
 ### Data Engineering
 * Use the information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
